@@ -1,5 +1,5 @@
 # Summative-project-1
-https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png
+
 In this project, you will work together with a team to build a REST API. It will provide a quote of the day, a word of the day, and Magic 8 Ball services. In addition, you will produce a 1 to 3 minute video summary of the project.
 
 User Stories
